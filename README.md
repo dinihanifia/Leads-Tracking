@@ -6,6 +6,9 @@
 http://localhost:1010/swagger-ui/index.html
 ```
 
+# Example
+<p align="center"><img align="center" src="./.github/swagger.png#gh-dark-mode-only"/></p>
+
 # Register Lead
 **URL**
 ```
